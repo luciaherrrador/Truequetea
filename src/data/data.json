@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Denis",
+        "city": "Madrid",
+        "search": "que me saquen al perro",
+        "offer": "clases de bajo",
+        "contact": "456783417",
+        "url": "../stylesheets/46307.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Tango",
+        "city": "Madrid",
+        "search": "aparador de madera",
+        "offer": "mesa de comedor",
+        "contact": "tango@gmail.com",
+        "url": "https://www.revistavanityfair.es/sociedad/celebrities/articulos/audrey-hepburn-retratos-ineditos-national-portrait-gallery-londres-desayuno-con-diamantes-vacaciones-en-roma-gigi/21073"
+    },
+    {
+        "id": 3,
+        "name": "Miranda",
+        "city": "Madrid",
+        "search": "clases de inglés",
+        "offer": "clases de francés",
+        "contact": "651789436",
+        "url": ""
+    },
+    {
+        "id": 4,
+        "name": "Matilda",
+        "city": "Madrid",
+        "search": "mantenimiento de jardín",
+        "offer": "dar comida a los gatos",
+        "contact": "matilda@gmail.com",
+        "url": ""
+    },
+    {
+        "id": 5,
+        "name": "Valentina",
+        "city": "Madrid",
+        "search": "comida casera durante un mes",
+        "offer": "bicicleta",
+        "contact": "valentina@hotmail.com",
+        "url": ""
+    },
+    {
+        "id": 6,
+        "name": "Aroa",
+        "city": "Madrid",
+        "search": "moto de segunda mano",
+        "offer": "clases de costura",
+        "contact": "914785347",
+        "url": ""
+    },
+    {
+        "id": 7,
+        "name": "Buda",
+        "city": "Madrid",
+        "search": "sesiónes kinesiología",
+        "offer": "entrada semanal para el cine",
+        "contact": "buda@gmail.com",
+        "url": ""
+    }
+]

@@ -1,0 +1,42 @@
+*{
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;  
+}
+
+form {
+  background: #eaeaea;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+input[type=submit]{
+  background-color: #43daa8;
+  border: none;
+  padding: 8px;
+  border-radius: 5px;
+  margin-top: 20px;
+  color: white;
+}
+
+input[type=submit]:hover{
+  background-color: grey;
+}
+
+label{
+  margin-top: 10px;
+  display: inline-block
+}
+
+input[type=text]{
+  border: none;
+  padding: 8px;
+  display: block;
+}
+
